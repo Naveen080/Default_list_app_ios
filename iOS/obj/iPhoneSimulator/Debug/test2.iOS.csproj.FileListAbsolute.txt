@@ -1,0 +1,26 @@
+/Users/user178491/Projects/test2/iOS/bin/iPhoneSimulator/Debug/test2.iOS.exe
+/Users/user178491/Projects/test2/iOS/bin/iPhoneSimulator/Debug/test2.iOS.pdb
+/Users/user178491/Projects/test2/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/user178491/Projects/test2/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/user178491/Projects/test2/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.dll
+/Users/user178491/Projects/test2/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.dll
+/Users/user178491/Projects/test2/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.dll
+/Users/user178491/Projects/test2/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/user178491/Projects/test2/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.pdb
+/Users/user178491/Projects/test2/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.Abstractions.xml
+/Users/user178491/Projects/test2/iOS/bin/iPhoneSimulator/Debug/Plugin.Share.xml
+/Users/user178491/Projects/test2/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/user178491/Projects/test2/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/user178491/Projects/test2/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.pdb
+/Users/user178491/Projects/test2/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.xml
+/Users/user178491/Projects/test2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.6/ibtool/_BundleResourceWithLogicalName.items
+/Users/user178491/Projects/test2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.6/actool/_PartialAppManifest.items
+/Users/user178491/Projects/test2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.6/actool/_BundleResourceWithLogicalName.items
+/Users/user178491/Projects/test2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.6/coremlc/_PartialAppManifest.items
+/Users/user178491/Projects/test2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.6/coremlc/_BundleResourceWithLogicalName.items
+/Users/user178491/Projects/test2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro max-13.6/optimized/
+/Users/user178491/Projects/test2/iOS/obj/iPhoneSimulator/Debug/test2.iOS.csprojAssemblyReference.cache
+/Users/user178491/Projects/test2/iOS/obj/iPhoneSimulator/Debug/test2.iOS.csproj.CoreCompileInputs.cache
+/Users/user178491/Projects/test2/iOS/obj/iPhoneSimulator/Debug/test2.iOS.csproj.CopyComplete
+/Users/user178491/Projects/test2/iOS/obj/iPhoneSimulator/Debug/test2.iOS.exe
+/Users/user178491/Projects/test2/iOS/obj/iPhoneSimulator/Debug/test2.iOS.pdb
